@@ -1,8 +1,8 @@
 {
   "name": "hyper-cat",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "description": "Turn your Hyper terminal into nyan cat while typing.",
-  "author": "Aaron Hardy",
+  "author": "Don Collins",
   "license": "MIT",
   "keywords": [
     "hyper",
@@ -16,10 +16,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aaronius/hyper-cat.git"
+    "url": "git+https://github.com/doncollins1985/hyper-cat.git"
   },
   "bugs": {
-    "url": "https://github.com/Aaronius/hyper-cat/issues"
+    "url": "https://github.com/doncollins1985/hyper-cat/issues"
   },
-  "homepage": "https://github.com/Aaronius/hyper-cat#readme"
+  "homepage": "https://github.com/doncollins1985/hyper-cat#readme"
 }
